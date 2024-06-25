@@ -1,22 +1,19 @@
-# Snake Game (Android Kotlin)
+# Jungle Snake Game (Android Kotlin)
 
 This is a classic Snake game developed for Android using Kotlin programming language. Snake is a popular arcade game where players control a snake that grows in length as it consumes food. The objective is to navigate the snake to eat as much food as possible without colliding with the walls or its own body.
 
-## Gameplay
 
-![snake](https://github.com/d-lehel/snake-android-game/assets/75861915/c0d493f9-4e52-42d7-bff3-bfd3c1f9ed25)
+# Description:
+Jungle Snake is a classical snake game developed for Android using Kotlin programming language. Snake game is a popular arcade game where players control a snake that grows in length as it consumes food. The background music creates more engagement and an enjoyable environment for users while they interact with the app.
 
-Check out the gameplay in action! The GIF above showcases gameplay of the Snake game on Android. 
+# Instructions:
 
-## Features
-
-- Classic Snake mechanics.
-- Touch-based controls.
-- Various levels of difficulty.
-
-## Technologies Used
-
-- Android SDK: The game is built using Android SDK, which provides the necessary tools and libraries for Android app development.
-- Kotlin: The game logic and user interface are implemented using Kotlin, a modern programming language for Android development.
-- Android Studio: The project is developed and managed in Android Studio, a powerful integrated development environment (IDE) for Android app development.
+•	The player can start the game by clicking the “Start Game”. It will lead to the game page.
+•	The green circle represents the snake and the red square represents the food.
+•	By navigating the snake into the food, the marks will be added to the scoreboard and the high score of the user will be displayed on the screen
+•	There are four buttons that the user can navigate to play the game.
+•	If the snake collides with itself or the wall, the game stops.
+•	The snake is reset, and the score will be reset.
+•	The objective is to navigate the snake to eat as much food as possible until colliding with the walls.
+•	The difficulty level of the game will be increased as you play the game.
 
