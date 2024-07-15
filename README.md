@@ -17,3 +17,5 @@ Jungle Snake is a classical snake game developed for Android using Kotlin progra
 •	The objective is to navigate the snake to eat as much food as possible until colliding with the walls.
 •	The difficulty level of the game will be increased as you play the game.
 
+![homepage](https://github.com/user-attachments/assets/8ff353c7-c107-4b40-b807-ee4307fd4c54)
+![start](https://github.com/user-attachments/assets/ef911817-e10a-41ad-a9af-6c3f05c051e7)
